@@ -1,4 +1,4 @@
-# 🇧🇷 (PT-BR)
+🇧🇷 (PT-BR)
 
 # Sistema de Login com React Native
 
@@ -65,7 +65,7 @@ Abra um Pull Request.
 ## Licença
 Distribuído sob a licença MIT.
 
-# 🇺🇸 (EN)
+🇺🇸 (EN)
 
 # Login System with React Native
 
