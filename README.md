@@ -19,14 +19,21 @@ Certifique-se de ter o Node.js e o Expo CLI instalados globalmente em sua máqui
 ### Passos para Executar o Projeto
 
 1. Clone o repositório:
-   ```sh
+```
    git clone https://github.com/guburchardt/login-screen-proj
+```
 2. Navegue até o diretório do projeto:
+```
   cd seuprojeto
-3. Instale as dependências:
+```
+4. Instale as dependências:
+```
    npm install
-4. Inicie a aplicação com Expo:
+```
+6. Inicie a aplicação com Expo:
+```
    expo start
+```
 
 Agora, você pode visualizar a aplicação em seu dispositivo móvel usando o aplicativo Expo ou em um emulador iOS/Android.
 
@@ -35,9 +42,18 @@ Agora, você pode visualizar a aplicação em seu dispositivo móvel usando o ap
 Contribuições são sempre bem-vindas! Para contribuir:
 
 Faça um Fork do projeto.
-Crie uma nova Branch (git checkout -b feature/NovaFeature).
-Commit suas mudanças (git commit -m 'Adicionando uma Nova Feature').
-Push para a Branch (git push origin feature/NovaFeature).
+Crie uma nova Branch:
+```
+git checkout -b feature/NovaFeature
+```
+Commit suas mudanças:
+```
+git commit -m 'Adicionando uma Nova Feature'
+```
+Push para a Branch: 
+```
+git push origin feature/NovaFeature
+```
 Abra um Pull Request.
 
 ## Licença
