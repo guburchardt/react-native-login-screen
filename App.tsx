@@ -1,20 +1,21 @@
 import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
+import { ScrollView, StyleSheet, Text, View, Image, TouchableOpacity} from 'react-native';
+import React from 'react';
+import { styles } from './style';
 
 export default function App() {
   return (
-    <View style={styles.container}>
-      <Text>Open up App.tsx to start working on your app!</Text>
-      <StatusBar style="auto" />
-    </View>
+    <ScrollView style={styles.scrollView}>
+      <View style={styles.container}>
+        <Image source={require('./assets/logo.png')} style={styles.logo} />
+        <Text style={styles.h1}> Sistema de Login</Text>
+        <Text style={styles.h2}> Bem vindo(a)! Digite seus dados abaixo.</Text>
+
+
+
+      </View>
+    </ScrollView>
   );
 }
 
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-});
+
