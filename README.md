@@ -2,7 +2,7 @@
 
 Este projeto é uma implementação de uma tela de login criada com React Native e Expo. A aplicação apresenta um design limpo e responsivo, otimizado para uma variedade de dispositivos.
 
-<img src="exampleImage/exampleScreen.jpeg">
+<img src="exampleImage/exampleScreen.jpeg" style="width: 200; height: auto;">
 
 ## Tecnologias Utilizadas
 
