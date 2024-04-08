@@ -19,8 +19,8 @@ Este projeto é uma implementação de uma tela de login criada com React Native
 
 Certifique-se de ter o Node.js e o Expo CLI instalados globalmente em sua máquina. Se não tiver, você pode instalar seguindo as instruções disponíveis nos links abaixo:
 
-- Node.js
-- Expo CLI
+- [Node.js](https://nodejs.org/)
+- [Expo CLI](https://docs.expo.io/get-started/installation/)
 
 ### Passos para Executar o Projeto
 
