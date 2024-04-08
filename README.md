@@ -1,3 +1,5 @@
+# 🇧🇷 (PT-BR)
+
 # Sistema de Login com React Native
 
 Este projeto é uma implementação de uma tela de login criada com React Native e Expo. A aplicação apresenta um design limpo e responsivo, otimizado para uma variedade de dispositivos.
@@ -62,3 +64,68 @@ Abra um Pull Request.
 
 ## Licença
 Distribuído sob a licença MIT.
+
+# 🇺🇸 (EN)
+
+# Login System with React Native
+
+This project is an implementation of a login screen created with React Native and Expo. The application features a clean and responsive design, optimized for a variety of devices.
+
+<p align="center">
+  <img src="exampleImage/exampleScreen.jpeg" width="auto" height="400">
+</p>
+
+## Technologies Used
+
+- **React Native**: A framework for building native mobile applications using JavaScript and React.
+- **Expo**: A platform for developers that makes it easy to create native applications in JavaScript.
+
+## Installation and Execution
+
+Make sure you have Node.js and Expo CLI installed globally on your machine. If not, you can install them by following the instructions available at the links below:
+
+- [Node.js](https://nodejs.org/)
+- [Expo CLI](https://docs.expo.io/get-started/installation/)
+
+### Steps to Run the Project
+
+1. Clone the repository:
+```
+   git clone https://github.com/guburchardt/login-screen-proj
+```
+2. Navigate to the project directory:
+```
+  cd yourproject
+```
+4. Install the dependencies:
+```
+   npm install
+```
+6. Start the application with Expo:
+```
+   expo start
+```
+
+Now, you can view the application on your mobile device using the Expo app or in an iOS/Android emulator.
+
+## Contributions
+
+Contributions are always welcome! To contribute:
+
+Fork the project.
+Create a new Branch:
+```
+git checkout -b feature/NewFeature
+```
+Commit your changes:
+```
+git commit -m 'Adding a New Feature'
+```
+Push to the Branch:
+```
+git push origin feature/NewFeature
+```
+Open a Pull Request.
+
+## License
+Distributed under the MIT License.
