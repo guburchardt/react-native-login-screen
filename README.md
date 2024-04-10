@@ -26,11 +26,11 @@ Certifique-se de ter o Node.js e o Expo CLI instalados globalmente em sua máqui
 
 1. Clone o repositório:
 ```
-   git clone https://github.com/guburchardt/login-screen-proj
+   git clone https://github.com/guburchardt/react-native-login-screen
 ```
 2. Navegue até o diretório do projeto:
 ```
-  cd seuprojeto
+  cd react-native-login-screen
 ```
 4. Instale as dependências:
 ```
@@ -91,11 +91,11 @@ Make sure you have Node.js and Expo CLI installed globally on your machine. If n
 
 1. Clone the repository:
 ```
-   git clone https://github.com/guburchardt/login-screen-proj
+   git clone https://github.com/guburchardt/react-native-login-screen
 ```
 2. Navigate to the project directory:
 ```
-  cd yourproject
+  cd react-native-login-screen
 ```
 4. Install the dependencies:
 ```
